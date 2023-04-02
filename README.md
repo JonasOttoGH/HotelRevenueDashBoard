@@ -1,5 +1,6 @@
 # HotelRevenueDashBoard
 Another portfolio project looking at a hotel financial dataset and creating an interactive dashboard. Unfortunately, important data such as the hotel names/chains are missing in the downloaded data set. 
+
 This is another project that was done through processing data through Microsoft SQL. Later using Tableau to display the visualisation of the data.
 
 Ask: Questions to Analyse:
